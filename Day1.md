@@ -24,3 +24,5 @@
 快慢指针实现
 
 ![题目](https://img-blog.csdnimg.cn/direct/8c51bcb358bd46aba23b848896eea58a.png)
+
+![](./Pic/show.jpg)
